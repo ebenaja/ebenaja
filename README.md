@@ -1,18 +1,3 @@
-
-<!--
-=========================================================
- EBEN MANURUNG | GITHUB PROFILE README
- GitHub: ebenaja
- Website: ebenaja.my.id
-=========================================================
-
-BANNER INSTRUCTIONS:
-Upload your banner to:
-assets/banner.png
-
-Then remove the HTML comment around the banner image below.
--->
-
 <!-- ==================== BANNER ==================== -->
 <p align="center">
   <img
