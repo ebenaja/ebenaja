@@ -14,17 +14,13 @@ Then remove the HTML comment around the banner image below.
 -->
 
 <!-- ==================== BANNER ==================== -->
-
-<!--
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ebenaja/ebenaja/main/assets/banner.png"
+    src="https://raw.githubusercontent.com/ebenaja/ebenaja/main/assets/banner.jpe"
     width="100%"
     alt="Eben Manurung Banner"
   />
 </p>
--->
-
 <!-- ==================== HERO SECTION ==================== -->
 
 <div align="center">
