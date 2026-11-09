@@ -1,5 +1,5 @@
 
-name: Generate Pac-Man Contribution Graph
+name: Generate Bomberman Contribution Graph
 
 on:
   schedule:
@@ -18,11 +18,11 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: Generate Pac-Man Graph
+      - name: Generate Bomberman Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ebenaja
-          games: pacman
+          games: 'bomberman'
 
       - name: Publish SVG files
         uses: crazy-max/ghaction-github-pages@v3.1.0
