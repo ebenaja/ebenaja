@@ -1,7 +1,7 @@
 <!-- ==================== BANNER ==================== -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ebenaja/ebenaja/main/assets/banner.jpe"
+    src="https://raw.githubusercontent.com/ebenaja/ebenaja/assets/Banner.jpe"
     width="100%"
     alt="Eben Manurung Banner"
   />
